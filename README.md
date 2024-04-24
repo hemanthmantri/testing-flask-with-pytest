@@ -38,8 +38,3 @@ To only execute the `get_request` grouped tests, run the following command:
 ```bash
 pytest -m get_request
 ```
-
-
-[gwp-program]: https://circle.ci/3ahQxfu
-[ron]: https://github.com/ronpowelljr
-[stan]: https://github.com/NdagiStanley
